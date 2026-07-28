@@ -4,7 +4,7 @@ Welcome to the Kahunda repository. This repository showcases end-to-end predicti
 
 ---
 
-## :tools: Tech stack & Tools
+## 🛠️ Tech stack & Tools
 
 * **Language:** Python
 * **ML Libraries:** Scikit-Learn, Pandas, Numpy
