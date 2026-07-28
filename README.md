@@ -4,15 +4,24 @@ Welcome to the Kahunda repository. This repository showcases end-to-end predicti
 
 ---
 
+## :tools: Tech stack & Tools
+
+* **Language:** Python
+* **ML Libraries:** Scikit-Learn, Pandas, Numpy
+* **Visualization:** Matplotlib, Seaborn
+* **Environment:** Google Colab/ Jupyter Notebooks
+
+---
+
 ## 🚀 Projects Included
 
 ### 1. Boston Rideshare Forecasting (`boston_rideshare_forecasting.ipynb`)
 * **Objective:** Analyze and predict rideshare pricing dynamics and demand trends for Uber and Lyft services in Boston, MA.
 * **Key Focus:** Exploratory Data Analysis (EDA), feature engineering around ride types, distance, and real-time environmental factors, and model optimization.
-
+* **Key Results:** Built and compared linear baselines, decision trees and random forests to minimize validation errors through systematic feature engineering and hyperparameter tuning
 ### 2. Walmart Sales Forecasting (`walmart_sales_forecasting.ipynb`)
 * **Objective:** Predict seasonal sales spikes and holiday demand fluctuations across 81 distinct Walmart departments.
-* **Model Selection:** Evaluated multiple regression baselines. The **`RandomForestRegressor`** was selected as the optimal model, delivering the lowest validation error score by effectively capturing non-linear feature interactions and holiday patterns.
+* **Key Results:** Evaluated multiple regression baselines. The **`RandomForestRegressor`** was selected as the optimal model, delivering the lowest validation error score by effectively capturing non-linear feature interactions and holiday patterns.
 
 ---
 
