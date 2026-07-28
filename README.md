@@ -33,7 +33,7 @@ To replicate these workflows and run the Jupyter Notebooks locally, ensure you h
 
 ```bash
 # Clone the repository
-git clone [https://github.com/kennethuchegbu22-GOD/Kahunda.git](https://github.com/kennethuchegbu22-GOD/Kahunda.git)
+git clone https://github.com/kennethuchegbu22-GOD/Kahunda.git
 
 # Navigate into the project folder
 cd Kahunda
