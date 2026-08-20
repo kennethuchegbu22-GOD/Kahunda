@@ -1,6 +1,6 @@
 # Kahunda: Machine Learning Pipelines
 
-Welcome to the Kahunda repository. This repository showcases end-to-end predictive analytics and machine learning pipelines utilizing `scikit-learn` to solve real-world industry forecasting challenges.
+Welcome to the Kahunda repository. This repository showcases end-to-end predictive analytics and machine learning pipelines utilizing `Scikit-Learn` to solve real-world industry forecasting challenges.
 
 ---
 
