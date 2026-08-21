@@ -15,6 +15,12 @@ Welcome to the Kahunda repository. This repository showcases end-to-end predicti
 
 ## 🚀 Projects Included
 
+**Quick Links:**
+* 🚗 [Boston Rideshare Forecasting](boston_rideshare_forecasting (1).ipynb)
+* 🛒 [Walmart Sales Forecasting](walmart_sales_forecasting.ipynb)
+* 🏪 [Rossmann Store Sales Prediction](rossmandataset (1).ipynb))
+
+---
 ### 1. Boston Rideshare Forecasting (`boston_rideshare_forecasting.ipynb`)
 * **Objective:** Analyze and predict rideshare pricing dynamics and demand trends for Uber and Lyft services in Boston, MA.
 * **Key Focus:** Exploratory Data Analysis (EDA), feature engineering around ride types, distance, and real-time environmental factors, and model optimization.
