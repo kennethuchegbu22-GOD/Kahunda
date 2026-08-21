@@ -22,7 +22,7 @@ Welcome to the Kahunda repository. This repository showcases end-to-end predicti
 
 ### 2. Walmart Sales Forecasting (`walmart_sales_forecasting.ipynb`)
 * **Objective:** Predict seasonal sales spikes and holiday demand fluctuations across 81 distinct Walmart departments.
-* **Key Focus:** Exploratory Data Analysis (EDA), feature engineering around markdowndown columns, IsHoliday and model optimization.
+* **Key Focus:** Exploratory Data Analysis (EDA), feature engineering around markdown columns, IsHoliday and model optimization.
 * **Key Results:** Evaluated multiple regression baselines. The **`RandomForestRegressor`** was selected as the optimal model, delivering the lowest validation error score by effectively capturing non-linear feature interactions and holiday patterns.
 
 
