@@ -15,10 +15,6 @@ Welcome to the Kahunda repository. This repository showcases end-to-end predicti
 
 ## 🚀 Projects Included
 
-**Quick Links:**
-* 🚗 [Boston Rideshare Forecasting](boston_rideshare_forecasting (1).ipynb)
-* 🛒 [Walmart Sales Forecasting](walmart_sales_forecasting.ipynb)
-* 🏪 [Rossmann Store Sales Prediction](rossmandataset (1).ipynb))
 
 ---
 ### 1. Boston Rideshare Forecasting (`boston_rideshare_forecasting.ipynb`)
